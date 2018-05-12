@@ -1,0 +1,33 @@
+_repo: Deutschland--ber-Allah_43073
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43073-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Benson, E. F. (Edward Frederic)
+    aliases:
+    - Benson, Edward Frederic
+    - Benson, Edward F. (Edward Frederic)
+    birthdate: 1867
+    deathdate: 1940
+    gutenberg_agent_id: '812'
+    url: http://www.gutenberg.org/2009/agents/812
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Frederic_Benson
+description: ''
+gutenberg_issued: '2013-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43073'
+  lccn: '17022577'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Turkey -- Foreign relations -- Germany'
+- !lcsh 'Germany -- Foreign relations -- Turkey'
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Turkey'
+title: Deutschland Über Allah
+url: http://www.gutenberg.org/ebooks/43073
